@@ -1,0 +1,30 @@
+{
+  "env": {
+    "commonjs": true,
+    "es6": true,
+    "node": true
+  },
+  "extends": ["standard", "plugin:json/recommended"],
+  "globals": {
+    "Atomics": "readonly",
+    "SharedArrayBuffer": "readonly"
+  },
+  "parserOptions": {
+    "ecmaVersion": 2018
+  },
+  "plugins": ["json"],
+  "rules": {
+    "comma-dangle": [
+      "error",
+      {
+        "arrays": "always-multiline",
+        "objects": "always-multiline",
+        "imports": "never",
+        "exports": "never",
+        "functions": "never"
+      }
+    ],
+    "semi": ["error", "always"],
+    "space-before-function-paren": "off"
+  }
+}
