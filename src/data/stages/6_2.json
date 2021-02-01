@@ -1,5 +1,6 @@
 {
-  "stage": "6-2",
+  "stage": 6,
+  "subStage": 2,
   "name": "Red Madness",
   "story": "Dimensional Clash"
 }

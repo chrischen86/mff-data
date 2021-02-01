@@ -1,5 +1,6 @@
 {
-  "stage": "9-2",
+  "stage": 9,
+  "subStage": 2,
   "name": "Terrigen Rage",
   "story": "The True SHIELD"
 }

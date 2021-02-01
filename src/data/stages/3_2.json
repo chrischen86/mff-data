@@ -1,5 +1,6 @@
 {
-  "stage": "3-2",
+  "stage": 3,
+  "subStage": 2,
   "name": "Shadow Over the Streets",
   "story": "Dimensional Clash"
 }

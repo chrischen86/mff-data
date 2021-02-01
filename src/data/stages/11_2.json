@@ -1,5 +1,6 @@
 {
-  "stage": "11-2",
+  "stage": 11,
+  "subStage": 2,
   "name": "Frozen Kingdom",
   "story": "The All War"
 }

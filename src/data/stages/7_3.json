@@ -1,5 +1,6 @@
 {
-  "stage": "7-3",
+  "stage": 7,
+  "subStage": 3,
   "name": "Order Out of Chaos",
   "story": "Dimensional Clash"
 }

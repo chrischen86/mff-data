@@ -1,5 +1,6 @@
 {
-  "stage": "12-1",
+  "stage": 12,
+  "subStage": 1,
   "name": "Flaming Frenzy",
   "story": "The All War"
 }

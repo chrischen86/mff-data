@@ -1,5 +1,6 @@
 {
-  "stage": "13-1",
+  "stage": 13,
+  "subStage": 1,
   "name": "The Ultimates",
   "story": "The Future Ends Here"
 }
