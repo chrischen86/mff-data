@@ -16,4 +16,7 @@ module.exports = {
     const jsonString = JSON.stringify(json);
     fs.outputFileSync(destination, jsonString);
   },
+  copyJsonFiles: function (source, destination) {
+    fs.copySync(source, destination);
+  },
 };
