@@ -3,11 +3,15 @@ const fs = require('fs-extra');
 module.exports = {
   readJsonFiles: function (dirname) {
     const directory = fs.readdirSync(dirname);
-    const jsonArray = [];
+    let jsonArray = [];
     directory.forEach((jsonFile) => {
       const contents = fs.readFileSync(`${dirname}/${jsonFile}`, 'utf-8');
       const json = JSON.parse(contents);
-      jsonArray.push(json);
+      if (Array.isArray(json)) {
+        jsonArray = [...jsonArray, ...json];
+      } else {
+        jsonArray = [...jsonArray, json];
+      }
     });
 
     return jsonArray;
