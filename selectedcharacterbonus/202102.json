@@ -22,7 +22,7 @@
   {
     "date": "2021-02-01T15:00:00.000Z",
     "stageId": 2,
-    "characterId": "morbuis"
+    "characterId": "morbius"
   },
   {
     "date": "2021-02-01T15:00:00.000Z",
@@ -462,6 +462,6 @@
   {
     "date": "2021-02-01T15:00:00.000Z",
     "stageId": 31,
-    "characterId": "morbuis"
+    "characterId": "morbius"
   }
 ]
