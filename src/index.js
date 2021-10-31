@@ -16,6 +16,11 @@ const staticApiData = [
     output: `./${destination}/selectedcharacterbonus.json`,
     destination: `./${destination}/selectedcharacterbonus`,
   },
+  {
+    input: './src/data/fragments',
+    output: `./${destination}/fragments.json`,
+    destination: `./${destination}/fragments`,
+  },
 ];
 
 staticApiData.forEach(({ input, output, destination }) => {
