@@ -3,5 +3,6 @@
   "stage": 5,
   "subStage": 1,
   "name": "The Battle for Domination",
-  "story": "Dimensional Clash"
+  "story": "Dimensional Clash",
+  "bonus": ["chill", "reflecthero", "stun"]
 }

@@ -3,5 +3,6 @@
   "stage": 2,
   "subStage": 3,
   "name": "Mad Science to the Max",
-  "story": "Dimensional Clash"
+  "story": "Dimensional Clash",
+  "bonus": ["toxic", "physicalimmune", "recoverydown", "instinctdecrease"]
 }

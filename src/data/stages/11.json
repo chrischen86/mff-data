@@ -3,5 +3,6 @@
   "stage": 4,
   "subStage": 2,
   "name": "The Beginning of the Storm",
-  "story": "Dimensional Clash"
+  "story": "Dimensional Clash",
+  "bonus": ["twister", "enemydodge", "silence4"]
 }

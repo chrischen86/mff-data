@@ -3,5 +3,6 @@
   "stage": 6,
   "subStage": 1,
   "name": "An Eternal Nemesis",
-  "story": "Dimensional Clash"
+  "story": "Dimensional Clash",
+  "bonus": ["timefreeze", "reflectvillian", "fear"]
 }

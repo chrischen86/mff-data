@@ -3,5 +3,6 @@
   "stage": 11,
   "subStage": 1,
   "name": "God of Deception",
-  "story": "The All War"
+  "story": "The All War",
+  "bonus": ["chill", "enemyitnd", "removebuffs", "instinctdecrease"]
 }

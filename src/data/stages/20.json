@@ -3,5 +3,6 @@
   "stage": 8,
   "subStage": 3,
   "name": "The Showdown",
-  "story": "Dimensional Clash"
+  "story": "Dimensional Clash",
+  "bonus": ["twister", "enemytargetting", "attackdown"]
 }
