@@ -3,5 +3,6 @@
   "stage": 3,
   "subStage": 1,
   "name": "SHIELD Under Siege",
-  "story": "Dimensional Clash"
+  "story": "Dimensional Clash",
+  "bonus": ["toxic", "enemyitgb", "recoverydown"]
 }

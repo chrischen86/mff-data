@@ -3,5 +3,6 @@
   "stage": 1,
   "subStage": 1,
   "name": "Emergency Dispatch",
-  "story": "Dimensional Clash"
+  "story": "Dimensional Clash",
+  "bonus": ["chill", "energyimmune", "speeddown", "instinctdecrease"]
 }

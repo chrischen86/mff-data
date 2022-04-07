@@ -3,5 +3,6 @@
   "stage": 1,
   "subStage": 3,
   "name": "Robotic Thef",
-  "story": "Dimensional Clash"
+  "story": "Dimensional Clash",
+  "bonus": ["chill", "energyimmune", "speeddown", "instinctdecrease"]
 }

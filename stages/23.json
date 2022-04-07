@@ -3,5 +3,6 @@
   "stage": 10,
   "subStage": 1,
   "name": "Royal Rumble",
-  "story": "The True SHIELD"
+  "story": "The True SHIELD",
+  "bonus": ["chill", "enemyitgb", "decreasespeed"]
 }

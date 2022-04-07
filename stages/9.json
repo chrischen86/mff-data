@@ -3,5 +3,6 @@
   "stage": 3,
   "subStage": 3,
   "name": "Chaos Descends",
-  "story": "Dimensional Clash"
+  "story": "Dimensional Clash",
+  "bonus": ["toxic", "enemyitgb", "recoverydown"]
 }

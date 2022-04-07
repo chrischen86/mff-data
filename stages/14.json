@@ -3,5 +3,6 @@
   "stage": 6,
   "subStage": 2,
   "name": "Red Madness",
-  "story": "Dimensional Clash"
+  "story": "Dimensional Clash",
+  "bonus": ["timefreeze", "reflectvillian", "fear"]
 }

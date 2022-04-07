@@ -3,5 +3,6 @@
   "stage": 13,
   "subStage": 1,
   "name": "The Ultimates",
-  "story": "The Future Ends Here"
+  "story": "The Future Ends Here",
+  "bonus": ["twister", "enemypierce", "attackdown"]
 }

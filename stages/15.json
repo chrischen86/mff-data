@@ -3,5 +3,6 @@
   "stage": 7,
   "subStage": 1,
   "name": "The Criminal Overworld",
-  "story": "Dimensional Clash"
+  "story": "Dimensional Clash",
+  "bonus": ["timefreeze", "enemypierce", "snare"]
 }

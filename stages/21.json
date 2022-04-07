@@ -3,5 +3,6 @@
   "stage": 9,
   "subStage": 1,
   "name": "Crisis in Another Dimension",
-  "story": "The True SHIELD"
+  "story": "The True SHIELD",
+  "bonus": ["toxic", "enemyitgb", "silence2"]
 }

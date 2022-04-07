@@ -3,5 +3,6 @@
   "stage": 11,
   "subStage": 2,
   "name": "Frozen Kingdom",
-  "story": "The All War"
+  "story": "The All War",
+  "bonus": ["chill", "enemyitnd", "removebuffs", "instinctdecrease"]
 }
