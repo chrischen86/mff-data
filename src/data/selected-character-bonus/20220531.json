@@ -1,0 +1,467 @@
+[
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 1,
+    "characterId": "spiderman"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 1,
+    "characterId": "spidergwen"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 1,
+    "characterId": "shadowshell"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 2,
+    "characterId": "vulture"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 2,
+    "characterId": "knull"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 2,
+    "characterId": "wintersoldier"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 3,
+    "characterId": "falcon"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 3,
+    "characterId": "spiderman"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 3,
+    "characterId": "misterfantastic"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 4,
+    "characterId": "sersi"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 4,
+    "characterId": "starlord"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 4,
+    "characterId": "mistersinister"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 5,
+    "characterId": "rescue"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 5,
+    "characterId": "cyclops"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 5,
+    "characterId": "humantorch"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 6,
+    "characterId": "storm"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 6,
+    "characterId": "ghostrider"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 6,
+    "characterId": "cyclops"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 7,
+    "characterId": "ironman"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 7,
+    "characterId": "magneto"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 7,
+    "characterId": "thething"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 8,
+    "characterId": "hawkeye"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 8,
+    "characterId": "ironman"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 8,
+    "characterId": "makkari"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 9,
+    "characterId": "deadpool"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 9,
+    "characterId": "ironfist"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 9,
+    "characterId": "sandman"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 10,
+    "characterId": "blackbolt"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 10,
+    "characterId": "thena"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 10,
+    "characterId": "elsabloodstone"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 11,
+    "characterId": "sif"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 11,
+    "characterId": "swordmaster"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 11,
+    "characterId": "invisiblewoman"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 12,
+    "characterId": "moleculeman"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 12,
+    "characterId": "ebonymaw"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 12,
+    "characterId": "loki"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 13,
+    "characterId": "bluedragon"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 13,
+    "characterId": "ironman"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 13,
+    "characterId": "makkari"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 14,
+    "characterId": "sharonrogers"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 14,
+    "characterId": "shangchi"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 14,
+    "characterId": "wave"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 15,
+    "characterId": "blackpanther"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 15,
+    "characterId": "drax"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 15,
+    "characterId": "adamwarlock"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 16,
+    "characterId": "hulk"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 16,
+    "characterId": "dormammu"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 16,
+    "characterId": "mysterio"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 17,
+    "characterId": "hyperion"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 17,
+    "characterId": "sandman"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 17,
+    "characterId": "elsabloodstone"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 18,
+    "characterId": "ultron"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 18,
+    "characterId": "elsabloodstone"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 18,
+    "characterId": "magneto"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 19,
+    "characterId": "spiderwoman"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 19,
+    "characterId": "shangchi"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 19,
+    "characterId": "cyclops"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 20,
+    "characterId": "lunasnow"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 20,
+    "characterId": "doctoroctopus"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 20,
+    "characterId": "bluemarvel"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 21,
+    "characterId": "sersi"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 21,
+    "characterId": "mayalopez"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 21,
+    "characterId": "ikarus"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 22,
+    "characterId": "lunasnow"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 22,
+    "characterId": "corvusglaive"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 22,
+    "characterId": "kingo"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 23,
+    "characterId": "emmafrost"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 23,
+    "characterId": "storm"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 23,
+    "characterId": "sif"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 24,
+    "characterId": "carnage"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 24,
+    "characterId": "sunbird"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 24,
+    "characterId": "crescent"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 25,
+    "characterId": "bluedragon"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 25,
+    "characterId": "ebonymaw"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 25,
+    "characterId": "blackwidow"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 26,
+    "characterId": "mayalopez"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 26,
+    "characterId": "supergiant"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 26,
+    "characterId": "psylocke"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 27,
+    "characterId": "spiderwoman"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 27,
+    "characterId": "loki"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 27,
+    "characterId": "thor"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 28,
+    "characterId": "colossus"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 28,
+    "characterId": "spiderwoman"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 28,
+    "characterId": "mayalopez"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 29,
+    "characterId": "mystique"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 29,
+    "characterId": "drax"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 29,
+    "characterId": "hawkeye"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 30,
+    "characterId": "hela"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 30,
+    "characterId": "thething"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 30,
+    "characterId": "blackbolt"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 31,
+    "characterId": "psylocke"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 31,
+    "characterId": "deadpool"
+  },
+  {
+    "date": "2022-06-01T15:00:00.000Z",
+    "stageId": 31,
+    "characterId": "doctoroctopus"
+  }
+]
