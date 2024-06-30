@@ -1,0 +1,467 @@
+[
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 1,
+    "characterId": "gorr"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 1,
+    "characterId": "beast"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 1,
+    "characterId": "morbius"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 2,
+    "characterId": "gwenpool"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 2,
+    "characterId": "x23"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 2,
+    "characterId": "sabretooth"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 3,
+    "characterId": "daredevil"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 3,
+    "characterId": "lizard"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 3,
+    "characterId": "heimdall"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 4,
+    "characterId": "ironhammer"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 4,
+    "characterId": "wasp2"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 4,
+    "characterId": "electro"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 5,
+    "characterId": "psylocke"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 5,
+    "characterId": "lunasnow"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 5,
+    "characterId": "ultron"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 6,
+    "characterId": "janefoster"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 6,
+    "characterId": "kaecilius"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 6,
+    "characterId": "electro"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 7,
+    "characterId": "crescent"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 7,
+    "characterId": "ghostrider"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 7,
+    "characterId": "sif"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 8,
+    "characterId": "antman"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 8,
+    "characterId": "nickfury"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 8,
+    "characterId": "skurge"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 9,
+    "characterId": "drax"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 9,
+    "characterId": "baronmordo"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 9,
+    "characterId": "lunasnow"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 10,
+    "characterId": "nightcrawler"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 10,
+    "characterId": "lizard"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 10,
+    "characterId": "redskull"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 11,
+    "characterId": "mysterio"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 11,
+    "characterId": "giantman"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 11,
+    "characterId": "nightcrawler"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 12,
+    "characterId": "cullobsidian"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 12,
+    "characterId": "thanos"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 12,
+    "characterId": "redguardian"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 13,
+    "characterId": "spectrum"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 13,
+    "characterId": "angela"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 13,
+    "characterId": "ironheart"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 14,
+    "characterId": "hulkbuster"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 14,
+    "characterId": "shuri"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 14,
+    "characterId": "ironhammer"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 15,
+    "characterId": "wasp2"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 15,
+    "characterId": "milesmorales"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 15,
+    "characterId": "giantman"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 16,
+    "characterId": "dormammu"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 16,
+    "characterId": "swordmaster"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 16,
+    "characterId": "shehulk"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 17,
+    "characterId": "venom"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 17,
+    "characterId": "modok"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 17,
+    "characterId": "misterfantastic"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 18,
+    "characterId": "ikarus"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 18,
+    "characterId": "cable"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 18,
+    "characterId": "mephisto"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 19,
+    "characterId": "skurge"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 19,
+    "characterId": "gamora"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 19,
+    "characterId": "juggernaught"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 20,
+    "characterId": "loki"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 20,
+    "characterId": "wong"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 20,
+    "characterId": "emmafrost"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 21,
+    "characterId": "havok"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 21,
+    "characterId": "captainamerica"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 21,
+    "characterId": "scarletwitch"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 22,
+    "characterId": "destroyer"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 22,
+    "characterId": "nova"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 22,
+    "characterId": "kingo"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 23,
+    "characterId": "spidergwen"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 23,
+    "characterId": "ironhammer"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 23,
+    "characterId": "fandral"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 24,
+    "characterId": "scarletwitch"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 24,
+    "characterId": "ironhammer"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 24,
+    "characterId": "giantman"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 25,
+    "characterId": "scarletwitch"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 25,
+    "characterId": "colossus"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 25,
+    "characterId": "punisher"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 26,
+    "characterId": "betaraybill"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 26,
+    "characterId": "thanos"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 26,
+    "characterId": "mantis"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 27,
+    "characterId": "iceman"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 27,
+    "characterId": "storm"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 27,
+    "characterId": "betaraybill"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 28,
+    "characterId": "kidomega"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 28,
+    "characterId": "enchantress"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 28,
+    "characterId": "gladiator"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 29,
+    "characterId": "angel"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 29,
+    "characterId": "sentry"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 29,
+    "characterId": "falcon"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 30,
+    "characterId": "professorx"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 30,
+    "characterId": "wasp2"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 30,
+    "characterId": "wendellvaughn"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 31,
+    "characterId": "hyperion"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 31,
+    "characterId": "satana"
+  },
+  {
+    "date": "2024-07-01T15:00:00.000Z",
+    "stageId": 31,
+    "characterId": "silversurfer"
+  }
+]
